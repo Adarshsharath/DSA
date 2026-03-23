@@ -1,3 +1,13 @@
+// I use a brute-force approach with sliding window idea by checking all possible substrings.
+// For every pair (i, j), I check if the substring s[i…j] is a palindrome.
+// I created a helper function that:
+// Returns a struct containing:
+// length of substring
+// isPalindrome (true/false)
+// If the substring is a palindrome and its length is greater than maxLen, I update:
+// maxLen
+// starting index
+// Finally, I return the longest palindrome substring.
 #include <stdlib.h>
 #include <string.h>
 

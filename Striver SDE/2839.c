@@ -1,3 +1,4 @@
+//this checks if |j-i|=2 and compares both strings at i and j respectively also it checked ith and jth position of itself
 #include <stdbool.h>
 
 bool canBeEqual(char* s1, char* s2) {

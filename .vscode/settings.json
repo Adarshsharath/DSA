@@ -1,0 +1,7 @@
+{
+    "git.timeline.showAuthor": false,
+    "github.showAvatar": false,
+    "timeline.pageOnScroll": false,
+    "git.enabled": true,
+    "git.enableCommitSigning": false
+}

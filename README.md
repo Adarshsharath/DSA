@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Adarshsharath/DSA/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Adarshsharath/DSA/tree/master/0038-count-and-say) |
 ## Stack
 |  |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Adarshsharath/DSA/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Adarshsharath/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Adarshsharath/DSA/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/Adarshsharath/DSA/tree/master/0086-partition-list) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Adarshsharath/DSA/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->

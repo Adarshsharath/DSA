@@ -7,10 +7,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Adarshsharath/DSA/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Adarshsharath/DSA/tree/master/0038-count-and-say) |
 | [0067-add-binary](https://github.com/Adarshsharath/DSA/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/Adarshsharath/DSA/tree/master/0071-simplify-path) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Adarshsharath/DSA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adarshsharath/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Adarshsharath/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Adarshsharath/DSA/tree/master/0145-binary-tree-postorder-traversal) |

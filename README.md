@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Adarshsharath/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Adarshsharath/DSA/tree/master/0086-partition-list) |
+| [0092-reverse-linked-list-ii](https://github.com/Adarshsharath/DSA/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Adarshsharath/DSA/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0876-middle-of-the-linked-list) |

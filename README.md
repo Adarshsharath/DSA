@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adarshsharath/DSA/tree/master/0012-integer-to-roman) |
 | [0038-count-and-say](https://github.com/Adarshsharath/DSA/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Adarshsharath/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Adarshsharath/DSA/tree/master/0071-simplify-path) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Adarshsharath/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adarshsharath/DSA/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Adarshsharath/DSA/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adarshsharath/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0088-merge-sorted-array) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Adarshsharath/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adarshsharath/DSA/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |

@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Adarshsharath/DSA/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
 | [0622-design-circular-queue](https://github.com/Adarshsharath/DSA/tree/master/0622-design-circular-queue) |
 | [3637-trionic-array-i](https://github.com/Adarshsharath/DSA/tree/master/3637-trionic-array-i) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adarshsharath/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adarshsharath/DSA/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
 ## Bit Manipulation
 |  |
@@ -163,4 +166,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->

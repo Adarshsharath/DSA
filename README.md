@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adarshsharath/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/Adarshsharath/DSA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Adarshsharath/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Adarshsharath/DSA/tree/master/0189-rotate-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adarshsharath/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Adarshsharath/DSA/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/Adarshsharath/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/Adarshsharath/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0142-linked-list-cycle-ii](https://github.com/Adarshsharath/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/Adarshsharath/DSA/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0876-middle-of-the-linked-list) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Adarshsharath/DSA/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
+| [0142-linked-list-cycle-ii](https://github.com/Adarshsharath/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adarshsharath/DSA/tree/master/0242-valid-anagram) |

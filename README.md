@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Adarshsharath/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Adarshsharath/DSA/tree/master/0071-simplify-path) |
+| [0242-valid-anagram](https://github.com/Adarshsharath/DSA/tree/master/0242-valid-anagram) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
 ## Stack
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Adarshsharath/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Linked List
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/Adarshsharath/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
 ## Bit Manipulation

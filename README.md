@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Adarshsharath/DSA/tree/master/0189-rotate-array) |
+| [0217-contains-duplicate](https://github.com/Adarshsharath/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Adarshsharath/DSA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Adarshsharath/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adarshsharath/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Adarshsharath/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshsharath/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Adarshsharath/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adarshsharath/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |

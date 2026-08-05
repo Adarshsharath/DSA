@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adarshsharath/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adarshsharath/DSA/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/Adarshsharath/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Adarshsharath/DSA/tree/master/0202-happy-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshsharath/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Adarshsharath/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshsharath/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Adarshsharath/DSA/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Adarshsharath/DSA/tree/master/0202-happy-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adarshsharath/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarshsharath/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/Adarshsharath/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshsharath/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Adarshsharath/DSA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Adarshsharath/DSA/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Adarshsharath/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Adarshsharath/DSA/tree/master/0242-valid-anagram) |
@@ -253,4 +256,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshsharath/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Adarshsharath/DSA/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->

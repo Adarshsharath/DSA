@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Adarshsharath/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adarshsharath/DSA/tree/master/0035-search-insert-position) |
+| [0041-first-missing-positive](https://github.com/Adarshsharath/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Adarshsharath/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Adarshsharath/DSA/tree/master/0075-sort-colors) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshsharath/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Adarshsharath/DSA/tree/master/0012-integer-to-roman) |
+| [0041-first-missing-positive](https://github.com/Adarshsharath/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0138-copy-list-with-random-pointer](https://github.com/Adarshsharath/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/Adarshsharath/DSA/tree/master/0142-linked-list-cycle-ii) |

@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Adarshsharath/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Adarshsharath/DSA/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Adarshsharath/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adarshsharath/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Adarshsharath/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Adarshsharath/DSA/tree/master/0078-subsets) |
 | [0190-reverse-bits](https://github.com/Adarshsharath/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Adarshsharath/DSA/tree/master/0191-number-of-1-bits) |
 ## Breadth-First Search
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Adarshsharath/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Adarshsharath/DSA/tree/master/0113-path-sum-ii) |
 ## Counting
 |  |

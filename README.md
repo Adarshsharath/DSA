@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Adarshsharath/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Adarshsharath/DSA/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Adarshsharath/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Adarshsharath/DSA/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Adarshsharath/DSA/tree/master/0066-plus-one) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Adarshsharath/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Adarshsharath/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Adarshsharath/DSA/tree/master/0113-path-sum-ii) |
 ## Counting

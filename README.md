@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Adarshsharath/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshsharath/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Adarshsharath/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarshsharath/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3637-trionic-array-i](https://github.com/Adarshsharath/DSA/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/Adarshsharath/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -288,4 +289,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0403-frog-jump](https://github.com/Adarshsharath/DSA/tree/master/0403-frog-jump) |
+| [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarshsharath/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 <!---LeetCode Topics End-->

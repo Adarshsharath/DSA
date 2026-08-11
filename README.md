@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Adarshsharath/DSA/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/Adarshsharath/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
+| [0554-brick-wall](https://github.com/Adarshsharath/DSA/tree/master/0554-brick-wall) |
 | [0622-design-circular-queue](https://github.com/Adarshsharath/DSA/tree/master/0622-design-circular-queue) |
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
 | [0994-rotting-oranges](https://github.com/Adarshsharath/DSA/tree/master/0994-rotting-oranges) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Adarshsharath/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
+| [0554-brick-wall](https://github.com/Adarshsharath/DSA/tree/master/0554-brick-wall) |
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
 | [3731-find-missing-elements](https://github.com/Adarshsharath/DSA/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation

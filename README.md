@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Adarshsharath/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Adarshsharath/DSA/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Math
 |  |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Adarshsharath/DSA/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/Adarshsharath/DSA/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Adarshsharath/DSA/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/Adarshsharath/DSA/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Adarshsharath/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/Adarshsharath/DSA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Adarshsharath/DSA/tree/master/0202-happy-number) |
@@ -336,4 +338,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshsharath/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/Adarshsharath/DSA/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

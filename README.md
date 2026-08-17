@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Adarshsharath/DSA/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Adarshsharath/DSA/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adarshsharath/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Adarshsharath/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Adarshsharath/DSA/tree/master/0041-first-missing-positive) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adarshsharath/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Adarshsharath/DSA/tree/master/0069-sqrtx) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |

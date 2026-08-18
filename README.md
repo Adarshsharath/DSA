@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshsharath/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Adarshsharath/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarshsharath/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshsharath/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3637-trionic-array-i](https://github.com/Adarshsharath/DSA/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/Adarshsharath/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/Adarshsharath/DSA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Adarshsharath/DSA/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshsharath/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/Adarshsharath/DSA/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |

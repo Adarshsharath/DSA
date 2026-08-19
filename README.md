@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Adarshsharath/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Adarshsharath/DSA/tree/master/1260-shift-2d-grid) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshsharath/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adarshsharath/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Adarshsharath/DSA/tree/master/2097-valid-arrangement-of-pairs) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarshsharath/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshsharath/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Adarshsharath/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Adarshsharath/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adarshsharath/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3731-find-missing-elements](https://github.com/Adarshsharath/DSA/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -348,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshsharath/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Adarshsharath/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adarshsharath/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |

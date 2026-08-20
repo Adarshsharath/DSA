@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Adarshsharath/DSA/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/Adarshsharath/DSA/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Adarshsharath/DSA/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/Adarshsharath/DSA/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Adarshsharath/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Adarshsharath/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Adarshsharath/DSA/tree/master/0242-valid-anagram) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adarshsharath/DSA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Adarshsharath/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Adarshsharath/DSA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarshsharath/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Adarshsharath/DSA/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Adarshsharath/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Adarshsharath/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Adarshsharath/DSA/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Adarshsharath/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Adarshsharath/DSA/tree/master/0090-subsets-ii) |
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/Adarshsharath/DSA/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/Adarshsharath/DSA/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Adarshsharath/DSA/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Adarshsharath/DSA/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Adarshsharath/DSA/tree/master/0113-path-sum-ii) |
 ## Counting
@@ -346,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Adarshsharath/DSA/tree/master/0079-word-search) |
 | [0994-rotting-oranges](https://github.com/Adarshsharath/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Adarshsharath/DSA/tree/master/1260-shift-2d-grid) |
 ## Enumeration

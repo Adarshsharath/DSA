@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharath/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshsharath/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3637-trionic-array-i](https://github.com/Adarshsharath/DSA/tree/master/3637-trionic-array-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Adarshsharath/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Adarshsharath/DSA/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
 | [1386-cinema-seat-allocation](https://github.com/Adarshsharath/DSA/tree/master/1386-cinema-seat-allocation) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshsharath/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Adarshsharath/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Adarshsharath/DSA/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |

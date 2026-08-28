@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/Adarshsharath/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Adarshsharath/DSA/tree/master/1260-shift-2d-grid) |
 | [1386-cinema-seat-allocation](https://github.com/Adarshsharath/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Adarshsharath/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshsharath/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adarshsharath/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Adarshsharath/DSA/tree/master/2097-valid-arrangement-of-pairs) |

@@ -1,30 +1,23 @@
 class Solution:
     def mostCommonWord(self, paragraph: str, banned: List[str]) -> str:
+
         paragraph = paragraph.lower()
+
+        paragraph = paragraph.replace(".", " ")
+        paragraph = paragraph.replace(",", " ")
         paragraph = paragraph.replace("!", " ")
         paragraph = paragraph.replace("?", " ")
-        paragraph = paragraph.replace(",", " ")
-        paragraph = paragraph.replace(";", " ")
-        paragraph = paragraph.replace(".", " ")
-        paragraph = paragraph.replace(":", " ")
         paragraph = paragraph.replace("'", " ")
-        
-        ls = paragraph.split()
-        
-        banned = [word.lower() for word in banned]
-        mp = defaultdict(int)
+        paragraph = paragraph.replace(";", " ")
 
-        for item in ls:
-            mp[item] += 1
+        words = paragraph.split()
 
-        maxval = -1
-        maxno = ""
+        count = {}
 
-        for key, val in mp.items():
-            if key not in banned:
-                if val > maxval:
-                    maxval = val
-                    maxno = key
+        for word in words:
+            if word not in banned:
+                count[word] = count.get(word, 0) + 1
 
-        return maxno
-        
+        maxword = max(count, key=count.get)
+
+        return maxword

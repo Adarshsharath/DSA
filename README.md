@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/Adarshsharath/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Adarshsharath/DSA/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Adarshsharath/DSA/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarshsharath/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarshsharath/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
 | [0554-brick-wall](https://github.com/Adarshsharath/DSA/tree/master/0554-brick-wall) |
 | [0622-design-circular-queue](https://github.com/Adarshsharath/DSA/tree/master/0622-design-circular-queue) |
+| [0735-asteroid-collision](https://github.com/Adarshsharath/DSA/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Adarshsharath/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Adarshsharath/DSA/tree/master/0922-sort-array-by-parity-ii) |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Adarshsharath/DSA/tree/master/0067-add-binary) |
+| [0735-asteroid-collision](https://github.com/Adarshsharath/DSA/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/Adarshsharath/DSA/tree/master/1260-shift-2d-grid) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharath/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Design

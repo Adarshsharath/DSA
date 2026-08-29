@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Adarshsharath/DSA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Adarshsharath/DSA/tree/master/0763-partition-labels) |
+| [0812-rotate-string](https://github.com/Adarshsharath/DSA/tree/master/0812-rotate-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarshsharath/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarshsharath/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Adarshsharath/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Adarshsharath/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/Adarshsharath/DSA/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |

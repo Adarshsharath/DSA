@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshsharath/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adarshsharath/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Adarshsharath/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Adarshsharath/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarshsharath/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharath/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshsharath/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarshsharath/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Adarshsharath/DSA/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarshsharath/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2212-removing-minimum-and-maximum-from-array](https://github.com/Adarshsharath/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Monotonic Stack
 |  |
 | ------- |

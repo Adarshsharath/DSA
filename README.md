@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Adarshsharath/DSA/tree/master/0837-most-common-word) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarshsharath/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarshsharath/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [3055-maximum-odd-binary-number](https://github.com/Adarshsharath/DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Adarshsharath/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshsharath/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarshsharath/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshsharath/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3055-maximum-odd-binary-number](https://github.com/Adarshsharath/DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adarshsharath/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adarshsharath/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Two Pointers
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Adarshsharath/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Adarshsharath/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2756-buy-two-chocolates](https://github.com/Adarshsharath/DSA/tree/master/2756-buy-two-chocolates) |
+| [3055-maximum-odd-binary-number](https://github.com/Adarshsharath/DSA/tree/master/3055-maximum-odd-binary-number) |
 ## Monotonic Stack
 |  |
 | ------- |

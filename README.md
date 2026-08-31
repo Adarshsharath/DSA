@@ -262,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/Adarshsharath/DSA/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Adarshsharath/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Adarshsharath/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarshsharath/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Hash Table

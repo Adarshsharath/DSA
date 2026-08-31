@@ -39,14 +39,13 @@ class Solution:
             r+=1
 
         ans = []
-        print(critical)
+        
         if len(critical)<2:
             ans.append(-1)
             ans.append(-1)
             return ans
         
-        critical.sort()
-        print(critical)
+        
         if len(critical) == 2:
             ans.append(critical[-1]-critical[0])
             ans.append(critical[-1]-critical[0])

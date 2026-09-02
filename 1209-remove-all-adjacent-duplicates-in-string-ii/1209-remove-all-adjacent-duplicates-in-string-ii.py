@@ -2,12 +2,10 @@ class Solution:
     def removeDuplicates(self, s: str, k: int) -> str:
         stack = []
         for ch in s:
-            if stack:
-                print(stack[-1][0],stack[-1][1])
             if stack and stack[-1][0] == ch:
                 if stack[-1][1] + 1 == k:
                     for _ in range(k-1):
-                        print("Popppp")
+                        
                         stack.pop()
                 else:
                     stack.append((ch,stack[-1][1]+1))

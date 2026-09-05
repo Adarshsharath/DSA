@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Adarshsharath/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Adarshsharath/DSA/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Adarshsharath/DSA/tree/master/0344-reverse-string) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adarshsharath/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/Adarshsharath/DSA/tree/master/0567-permutation-in-string) |
 | [0763-partition-labels](https://github.com/Adarshsharath/DSA/tree/master/0763-partition-labels) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Adarshsharath/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Adarshsharath/DSA/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adarshsharath/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Adarshsharath/DSA/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshsharath/DSA/tree/master/0380-insert-delete-getrandom-o1) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adarshsharath/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Adarshsharath/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
 | [0554-brick-wall](https://github.com/Adarshsharath/DSA/tree/master/0554-brick-wall) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Adarshsharath/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adarshsharath/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/Adarshsharath/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adarshsharath/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |

@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Adarshsharath/DSA/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/Adarshsharath/DSA/tree/master/0922-sort-array-by-parity-ii) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Adarshsharath/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [0994-rotting-oranges](https://github.com/Adarshsharath/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Adarshsharath/DSA/tree/master/1260-shift-2d-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarshsharath/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Adarshsharath/DSA/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adarshsharath/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Adarshsharath/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -373,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/Adarshsharath/DSA/tree/master/0622-design-circular-queue) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Adarshsharath/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 ## Union-Find
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Adarshsharath/DSA/tree/master/0053-maximum-subarray) |
 | [0403-frog-jump](https://github.com/Adarshsharath/DSA/tree/master/0403-frog-jump) |
+| [0954-maximum-sum-circular-subarray](https://github.com/Adarshsharath/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarshsharath/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 ## Doubly-Linked List
 |  |
@@ -505,4 +509,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adarshsharath/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/Adarshsharath/DSA/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->

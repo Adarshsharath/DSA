@@ -227,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adarshsharath/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Adarshsharath/DSA/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshsharath/DSA/tree/master/3875-construct-uniform-parity-array-i) |
+| [4245-count-commas-in-range](https://github.com/Adarshsharath/DSA/tree/master/4245-count-commas-in-range) |
 ## Two Pointers
 |  |
 | ------- |

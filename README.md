@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Adarshsharath/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adarshsharath/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarshsharath/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Depth-First Search
 |  |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Adarshsharath/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adarshsharath/DSA/tree/master/0572-subtree-of-another-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarshsharath/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Array
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Adarshsharath/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0538-convert-bst-to-greater-tree](https://github.com/Adarshsharath/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0700-search-in-a-binary-search-tree) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarshsharath/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 ## Math
 |  |

@@ -12,7 +12,6 @@ class Solution:
             inorder(root.left,ls)
             ls.append(root.val)
             inorder(root.right,ls)
-
             return ls
         count = [0]
         def fun(root):
@@ -23,7 +22,6 @@ class Solution:
             S = sum(ls)//len(ls)
             if root.val == S:
                 count[0] += 1
-            print(root.val,count[0],S)
             fun(root.left)
             fun(root.right)
 

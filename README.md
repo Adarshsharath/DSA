@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarshsharath/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarshsharath/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarshsharath/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarshsharath/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Adarshsharath/DSA/tree/master/2097-valid-arrangement-of-pairs) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarshsharath/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/Adarshsharath/DSA/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0700-search-in-a-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarshsharath/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Adarshsharath/DSA/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Array
 |  |
 | ------- |

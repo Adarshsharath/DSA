@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3637-trionic-array-i](https://github.com/Adarshsharath/DSA/tree/master/3637-trionic-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adarshsharath/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Adarshsharath/DSA/tree/master/3731-find-missing-elements) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Adarshsharath/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Adarshsharath/DSA/tree/master/3875-construct-uniform-parity-array-i) |
 | [4284-smallest-stable-index-i](https://github.com/Adarshsharath/DSA/tree/master/4284-smallest-stable-index-i) |
 ## Divide and Conquer
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Adarshsharath/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Adarshsharath/DSA/tree/master/0234-palindrome-linked-list) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Adarshsharath/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshsharath/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adarshsharath/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Adarshsharath/DSA/tree/master/3731-find-missing-elements) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Adarshsharath/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -469,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Adarshsharath/DSA/tree/master/1656-count-good-triplets) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adarshsharath/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Adarshsharath/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3799-unique-3-digit-even-numbers](https://github.com/Adarshsharath/DSA/tree/master/3799-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |

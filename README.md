@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Adarshsharath/DSA/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Adarshsharath/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Adarshsharath/DSA/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Adarshsharath/DSA/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Adarshsharath/DSA/tree/master/0260-single-number-iii) |
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0380-insert-delete-getrandom-o1](https://github.com/Adarshsharath/DSA/tree/master/0380-insert-delete-getrandom-o1) |
@@ -528,6 +529,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Adarshsharath/DSA/tree/master/0238-product-of-array-except-self) |
 | [4284-smallest-stable-index-i](https://github.com/Adarshsharath/DSA/tree/master/4284-smallest-stable-index-i) |
 ## Segment Tree
 |  |

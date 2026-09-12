@@ -8,7 +8,7 @@ class Solution:
         for i in range(2,len(nums)):
             p = p * nums[i-1]
             pre[i] = p
-        print(pre)
+        
 
         suf =[0]*len(nums)
         suf[len(nums)-1] = 0
@@ -17,7 +17,7 @@ class Solution:
         for i in range(len(nums)-3,-1,-1):
             p = p*nums[i+1]
             suf[i] = p
-        print(suf)
+        
         ans = []
         for i in range(len(nums)):
             if i == 0:

@@ -15,7 +15,5 @@ class Solution:
                 X = i[0] - j[0]
                 Y = i[1] - j[1]
                 mp[(X,Y)] += 1
-            
-        print(mp)
 
         return max(mp.values(),default=0)

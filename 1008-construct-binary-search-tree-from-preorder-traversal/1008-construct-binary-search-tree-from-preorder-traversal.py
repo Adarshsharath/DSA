@@ -4,26 +4,46 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
+# class Solution:
+#     def bstFromPreorder(self, preorder: List[int]) -> Optional[TreeNode]:
+#         root = TreeNode(preorder[0])
+#         def fun(root,val):
+#             if not root.left and val<root.val:
+#                 root.left = TreeNode(val)
+#                 return
+
+#             if not root.right and val>root.val:
+#                 root.right = TreeNode(val)
+#                 return
+            
+#             if val<root.val:
+#                 fun(root.left,val)
+            
+#             if val>root.val:
+#                 fun(root.right,val)
+            
+#         for i in range(1,len(preorder)):
+#             fun(root,preorder[i])
+
+#         return root
+        
 class Solution:
     def bstFromPreorder(self, preorder: List[int]) -> Optional[TreeNode]:
-        root = TreeNode(preorder[0])
-        def fun(root,val):
-            if not root.left and val<root.val:
-                root.left = TreeNode(val)
-                return
 
-            if not root.right and val>root.val:
-                root.right = TreeNode(val)
-                return
-            
-            if val<root.val:
-                fun(root.left,val)
-            
-            if val>root.val:
-                fun(root.right,val)
-            
-        for i in range(1,len(preorder)):
-            fun(root,preorder[i])
+        idx = 0
 
-        return root
-        
+        def build(bound):
+            nonlocal idx
+
+            if idx == len(preorder) or preorder[idx] > bound:
+                return None
+
+            root = TreeNode(preorder[idx])
+            idx += 1
+
+            root.left = build(root.val)
+            root.right = build(bound)
+
+            return root
+
+        return build(float('inf'))

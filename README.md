@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/Adarshsharath/DSA/tree/master/0622-design-circular-queue) |
 | [0735-asteroid-collision](https://github.com/Adarshsharath/DSA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Adarshsharath/DSA/tree/master/0739-daily-temperatures) |
+| [0835-image-overlap](https://github.com/Adarshsharath/DSA/tree/master/0835-image-overlap) |
 | [0837-most-common-word](https://github.com/Adarshsharath/DSA/tree/master/0837-most-common-word) |
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Adarshsharath/DSA/tree/master/0905-sort-array-by-parity) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Adarshsharath/DSA/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/Adarshsharath/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Adarshsharath/DSA/tree/master/0994-rotting-oranges) |
 | [1260-shift-2d-grid](https://github.com/Adarshsharath/DSA/tree/master/1260-shift-2d-grid) |
 ## Enumeration

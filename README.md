@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0538-convert-bst-to-greater-tree](https://github.com/Adarshsharath/DSA/tree/master/0538-convert-bst-to-greater-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Adarshsharath/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Adarshsharath/DSA/tree/master/0572-subtree-of-another-tree) |
+| [0743-network-delay-time](https://github.com/Adarshsharath/DSA/tree/master/0743-network-delay-time) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/Adarshsharath/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarshsharath/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Adarshsharath/DSA/tree/master/2097-valid-arrangement-of-pairs) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Adarshsharath/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Adarshsharath/DSA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Adarshsharath/DSA/tree/master/0112-path-sum) |
+| [0743-network-delay-time](https://github.com/Adarshsharath/DSA/tree/master/0743-network-delay-time) |
 | [0994-rotting-oranges](https://github.com/Adarshsharath/DSA/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarshsharath/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [3310-remove-methods-from-project](https://github.com/Adarshsharath/DSA/tree/master/3310-remove-methods-from-project) |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Adarshsharath/DSA/tree/master/0743-network-delay-time) |
 | [1791-find-center-of-star-graph](https://github.com/Adarshsharath/DSA/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Adarshsharath/DSA/tree/master/1971-find-if-path-exists-in-graph) |
 | [2097-valid-arrangement-of-pairs](https://github.com/Adarshsharath/DSA/tree/master/2097-valid-arrangement-of-pairs) |
@@ -446,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Adarshsharath/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/Adarshsharath/DSA/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -569,4 +573,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adarshsharath/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Adarshsharath/DSA/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Adarshsharath/DSA/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->

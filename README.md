@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarshsharath/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarshsharath/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Adarshsharath/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adarshsharath/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarshsharath/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Adarshsharath/DSA/tree/master/3055-maximum-odd-binary-number) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Adarshsharath/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Adarshsharath/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarshsharath/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Adarshsharath/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adarshsharath/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Adarshsharath/DSA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Tree
 |  |
@@ -563,4 +565,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Adarshsharath/DSA/tree/master/0836-rectangle-overlap) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adarshsharath/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->

@@ -1,41 +1,35 @@
+from collections import defaultdict
+import heapq
+
 class Solution:
     def networkDelayTime(self, times: list[list[int]], n: int, k: int) -> int:
 
-        # 1. Check reachability
         graph = defaultdict(list)
 
         for u, v, w in times:
-            graph[u].append(v)
+            graph[u].append((v, w))
 
-        visited = set()
-        visited.add(k)
+        heap = [(0, k)]
 
-        def dfs(node):
-            for neighbour in graph[node]:
-                if neighbour not in visited:
-                    visited.add(neighbour)
-                    dfs(neighbour)
+        dist = [float('inf')] * (n + 1)
+        dist[k] = 0
 
-        dfs(k)
+        while heap:
 
-        if len(visited) != n:
-            return -1
+            current_time, node = heapq.heappop(heap)
 
 
-        dist = [[float('inf')] * (n + 1) for _ in range(n + 1)]
+            if current_time > dist[node]:
+                continue
 
-        for i in range(1, n + 1):
-            dist[i][i] = 0
+            for neighbour, weight in graph[node]:
 
-        for u, v, w in times:
-            dist[u][v] = w
+                new_time = current_time + weight
 
-        for mid in range(1, n + 1):
-            for i in range(1, n + 1):
-                for j in range(1, n + 1):
-                    dist[i][j] = min(
-                        dist[i][j],
-                        dist[i][mid] + dist[mid][j]
-                    )
+                if new_time < dist[neighbour]:
+                    dist[neighbour] = new_time
+                    heapq.heappush(heap, (new_time, neighbour))
 
-        return max(dist[k][1:])
+        answer = max(dist[1:])
+
+        return -1 if answer == float('inf') else answer

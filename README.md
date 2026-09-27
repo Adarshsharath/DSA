@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Adarshsharath/DSA/tree/master/1260-shift-2d-grid) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarshsharath/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Adarshsharath/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1480-running-sum-of-1d-array](https://github.com/Adarshsharath/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Adarshsharath/DSA/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/Adarshsharath/DSA/tree/master/1656-count-good-triplets) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Adarshsharath/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Adarshsharath/DSA/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Adarshsharath/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [4284-smallest-stable-index-i](https://github.com/Adarshsharath/DSA/tree/master/4284-smallest-stable-index-i) |
 ## Segment Tree
 |  |

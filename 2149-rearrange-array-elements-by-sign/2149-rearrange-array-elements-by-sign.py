@@ -12,9 +12,9 @@ class Solution:
         p = True
         f = False
         positive.reverse()
-        print(positive)
+        # print(positive)
         negative.reverse()
-        print(negative)
+        # print(negative)
         for i in range(len(nums)):
             if p and not f:
                 ans.append(positive.pop())

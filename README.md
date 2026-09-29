@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adarshsharath/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Adarshsharath/DSA/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/Adarshsharath/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Adarshsharath/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Adarshsharath/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adarshsharath/DSA/tree/master/0079-word-search) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Adarshsharath/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Adarshsharath/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Adarshsharath/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0098-validate-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Adarshsharath/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Adarshsharath/DSA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -494,6 +496,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Adarshsharath/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/Adarshsharath/DSA/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/Adarshsharath/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Adarshsharath/DSA/tree/master/0994-rotting-oranges) |

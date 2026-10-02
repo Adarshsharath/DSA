@@ -1,22 +1,40 @@
+# class Solution:
+#     def goodNodes(self, root: TreeNode) -> int:
+#         ls = []
+#         count = [0]
+
+#         def fun(root):
+#             if not root:
+#                 return
+
+#             ls.append(root.val)
+
+#             if root.val == max(ls):
+#                 count[0] += 1
+
+#             fun(root.left)
+#             fun(root.right)
+
+
+#             ls.pop()
+
+#         fun(root)
+#         return count[0]
 class Solution:
     def goodNodes(self, root: TreeNode) -> int:
-        ls = []
-        count = [0]
-
-        def fun(root):
+        def fun(root, mx):
             if not root:
-                return
+                return 0
 
-            ls.append(root.val)
+            count = 0
 
-            if root.val == max(ls):
-                count[0] += 1
+            if root.val >= mx:
+                count = 1
+                mx = root.val
 
-            fun(root.left)
-            fun(root.right)
+            count += fun(root.left, mx)
+            count += fun(root.right, mx)
 
+            return count
 
-            ls.pop()
-
-        fun(root)
-        return count[0]
+        return fun(root, root.val)

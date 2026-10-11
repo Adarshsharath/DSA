@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/Adarshsharath/DSA/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2756-buy-two-chocolates](https://github.com/Adarshsharath/DSA/tree/master/2756-buy-two-chocolates) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Adarshsharath/DSA/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Adarshsharath/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Adarshsharath/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adarshsharath/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshsharath/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -535,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Adarshsharath/DSA/tree/master/1656-count-good-triplets) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/Adarshsharath/DSA/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Adarshsharath/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Adarshsharath/DSA/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3799-unique-3-digit-even-numbers](https://github.com/Adarshsharath/DSA/tree/master/3799-unique-3-digit-even-numbers) |

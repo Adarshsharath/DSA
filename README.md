@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Adarshsharath/DSA/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Adarshsharath/DSA/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Adarshsharath/DSA/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/Adarshsharath/DSA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Adarshsharath/DSA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Adarshsharath/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Adarshsharath/DSA/tree/master/0066-plus-one) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Adarshsharath/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/Adarshsharath/DSA/tree/master/0039-combination-sum) |
+| [0046-permutations](https://github.com/Adarshsharath/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/Adarshsharath/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Adarshsharath/DSA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Adarshsharath/DSA/tree/master/0079-word-search) |

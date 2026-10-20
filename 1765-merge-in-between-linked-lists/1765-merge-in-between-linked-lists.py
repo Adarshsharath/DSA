@@ -9,26 +9,26 @@ class Solution:
         prev = None
         x = b-a
         while a:
-            print(cur.val)
+            # print(cur.val)
             prev = cur
             cur = cur.next
             a-=1
         R = prev.next
         prev.next = None
-        print(R.val)
+        # print(R.val)
 
         
         while x:
             R = R.next
             x-=1
-        print(R.val)
+        # print(R.val)
 
         head2 = R.next
 
         head1 = list1
         cur = head1
         while cur.next:
-            print(cur.val)
+            # print(cur.val)
             cur = cur.next
         cur.next = list2
         while cur.next:

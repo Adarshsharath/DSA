@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Adarshsharath/DSA/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Adarshsharath/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Adarshsharath/DSA/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adarshsharath/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Adarshsharath/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Adarshsharath/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Adarshsharath/DSA/tree/master/3055-maximum-odd-binary-number) |
@@ -414,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Adarshsharath/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1386-cinema-seat-allocation](https://github.com/Adarshsharath/DSA/tree/master/1386-cinema-seat-allocation) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adarshsharath/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [3163-subarrays-distinct-element-sum-of-squares-i](https://github.com/Adarshsharath/DSA/tree/master/3163-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Adarshsharath/DSA/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Adarshsharath/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Adarshsharath/DSA/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/Adarshsharath/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshsharath/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Adarshsharath/DSA/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Adarshsharath/DSA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Floyd's Cycle Finding Algorithm
 |  |

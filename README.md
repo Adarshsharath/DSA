@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0403-frog-jump](https://github.com/Adarshsharath/DSA/tree/master/0403-frog-jump) |
 | [0496-next-greater-element-i](https://github.com/Adarshsharath/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/Adarshsharath/DSA/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Adarshsharath/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarshsharath/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/Adarshsharath/DSA/tree/master/0622-design-circular-queue) |
@@ -410,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/Adarshsharath/DSA/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0496-next-greater-element-i](https://github.com/Adarshsharath/DSA/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Adarshsharath/DSA/tree/master/0500-keyboard-row) |
+| [0525-contiguous-array](https://github.com/Adarshsharath/DSA/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Adarshsharath/DSA/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarshsharath/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Adarshsharath/DSA/tree/master/0567-permutation-in-string) |
@@ -621,6 +623,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Adarshsharath/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Adarshsharath/DSA/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Adarshsharath/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Adarshsharath/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Adarshsharath/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1480-running-sum-of-1d-array](https://github.com/Adarshsharath/DSA/tree/master/1480-running-sum-of-1d-array) |
